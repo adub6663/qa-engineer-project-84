@@ -1,39 +1,39 @@
 ---
 - summary: |
-     Поиск товаров по ключевому слову: успешное отображение релевантных резельтатов
-status: fail
+    Поиск товаров по ключевому слову: успешное отображение релевантных резельтатов
+  status: fail
 
 - summary: |
     Поиск товаров по категории
-status: fail
-
- - summary: |
+  status: fail
+  
+- summary: |
     Фильтрация товаров с ценой в заданном диапазоне
-status: fail
+  status: fail
 
 - summary: |
     Применение двух фильтров одновременно
-status: fail
+  status: fail
 
 - summary: |
      Переход на страницу подробной информации из списка товаров
-status: pass
+  status: pass
 
 - summary: |
     Проверка, что подробная информация содержит ключевые поля
-status: fail
+  status: fail
 
- summary: |
+- summary: |
     Добавление товара в корзину через карточку товара
-status: pass
+  status: pass
 
 - summary: |
    Смена языка интерфейса с русского на английский
-status: pass
+  status: pass
 
 - summary: |
    Смена языка интерфейса с английского на русский
-status: fail
+  status: fail
 
 ---
 - summary: |
