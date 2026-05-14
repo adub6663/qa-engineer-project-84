@@ -37,44 +37,44 @@
 
 - summary: |
    Проверка отображения общей информации товаров в каталоге
-status: fail
+  status: fail
 
 - summary: |
     Проверка фильтрации товаров по производителю
-status: pass
+  status: pass
 
 - summary: |
     Проверка фильтрации товаров по чекбоксу "В наличии"
-status: fail
+  status: fail
 
 - summary: |
     Проверка удаления товара из корзины
-status: pass
+  status: pass
 
 - summary: |
     Проверка очистки корзины и перехода на страницу каталога
-status: pass
+  status: pass
 
 - summary: |
    Проверка добавления нескольких одинаковых товаров в корзину
- status: fail
+  status: fail
 
 - summary: |
    Проверка добавления нескольких разных товаров в корзину
-status: pass
+  status: pass
 
 - summary: |
    Проверка оформления заказа из корзины с переходом на страницу оплаты
- status: fail
+  status: fail
 
 - summary: |
    Проверка постраничного вывода товаров в каталоге
-status: pass
+  status: pass
 
 - summary: |
     Проверка перехода в категорию по хэштегу на странице товара
  status: fail
 
- - summary: |
+- summary: |
    Проверка, что все запросы на странице интернет-магазина успешны
-status: pass
+  status: pass
